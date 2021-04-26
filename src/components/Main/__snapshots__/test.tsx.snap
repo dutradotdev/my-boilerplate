@@ -55,7 +55,7 @@ exports[`Main should render the heading 1`] = `
   <h1
     class="c2"
   >
-    componente main
+    Componente main
   </h1>
   <h2
     class="c3"
