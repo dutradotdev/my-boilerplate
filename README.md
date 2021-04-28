@@ -8,6 +8,10 @@ My personal template using the following technologies:
 - Jest + React Testing Library
 - Eslint + Prettier + Editorconfig
 
+## Do not forget
+- Change the manifest.json before use
+- Delete de initial component, snapshot and test
+
 ## Commands
 
 ### To run the project in the dev mode
