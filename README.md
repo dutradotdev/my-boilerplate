@@ -1,6 +1,6 @@
 ## Getting Started
 My personal template using the following technologies:
-- Next.js
+- Next.js + PWA
 - Typescript
 - Storybook v6+
 - React.js
@@ -8,6 +8,10 @@ My personal template using the following technologies:
 - Jest + React Testing Library
 - Eslint + Prettier + Editorconfig
 
+## You can create a project based on this boilerplate using:
+```bash
+  yarn create next-app -e https://github.com/dutradotdev/my-boilerplate
+```
 ## Do not forget
 - Change the manifest.json before use
 - Delete de initial component, snapshot and test
