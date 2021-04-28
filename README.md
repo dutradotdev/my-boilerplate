@@ -14,7 +14,7 @@ My personal template using the following technologies:
 ```
 ## Do not forget
 - Change the manifest.json before use
-- Delete de initial component, snapshot and test
+- Delete the initial component, snapshot and test
 
 ## Commands
 
