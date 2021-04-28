@@ -18,6 +18,15 @@ My personal template using the following technologies:
 
 ## Commands
 
+### To create your components
+```bash
+yarn generate <component_name>
+```
+This will create:
+- index.tsx
+- style.ts
+- tests.tsx
+- stories.tsx
 ### To run the project in the dev mode
 ```bash
 yarn dev
